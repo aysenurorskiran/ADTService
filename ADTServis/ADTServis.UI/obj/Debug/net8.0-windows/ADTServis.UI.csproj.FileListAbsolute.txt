@@ -1,0 +1,20 @@
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.AppointmentsForm.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.CostumerAddForm.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.CustomersForm.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.Form1.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.LoginForm.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.MainForm.resources
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\NYP PROJECTS\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.AppointmentsForm.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.CostumerAddForm.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.CustomersForm.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.Form1.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.LoginForm.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.MainForm.resources
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.GenerateResource.cache
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\Desktop\ADTServis\ADTServis\ADTServis.UI\obj\Debug\net8.0-windows\ADTServis.UI.csproj.CoreCompileInputs.cache

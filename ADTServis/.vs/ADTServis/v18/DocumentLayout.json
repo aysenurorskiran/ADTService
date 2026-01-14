@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\costumeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\costumeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|solutionrelative:adtservis.entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\costumeraddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\costumeraddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|solutionrelative:adtservis.dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.bll\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|solutionrelative:adtservis.bll\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|solutionrelative:adtservis.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|solutionrelative:adtservis.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\adtservis.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\adtservis.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\adtservis.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\adtservis.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|solutionrelative:adtservis.bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|solutionrelative:adtservis.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\costumeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\costumeraddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A1A8C8-15E9-4707-BB2D-6AD951792FB4}|ADTServis.BLL\\ADTServis.BLL.csproj|solutionrelative:adtservis.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65628E0-2621-40A2-BA34-75F1301C5B4D}|ADTServis.Entities\\ADTServis.Entities.csproj|solutionrelative:adtservis.entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\adtservis.dal\\db\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B349956-684C-4533-BEC4-C7E11C3ACD44}|ADTServis.DAL\\ADTServis.DAL.csproj|solutionrelative:adtservis.dal\\db\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|c:\\users\\aysen\\desktop\\adtservis\\adtservis\\adtservis.ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E01322-C94D-4F8F-881C-1B7B8CADCD84}|ADTServis.UI\\ADTServis.UI.csproj|solutionrelative:adtservis.ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\AppointmentsForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\AppointmentsForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\AppointmentsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ADTServis.UI\\AppointmentsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "ADTServis.BLL\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\AppointmentService.cs",
+              "RelativeToolTip": "ADTServis.BLL\\AppointmentService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ADTServis.DAL\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "ADTServis.DAL\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "ADTServis.Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Appointment.cs",
+              "RelativeToolTip": "ADTServis.Entities\\Appointment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CostumerAddForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CostumerAddForm.Designer.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CostumerAddForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CostumerAddForm.Designer.cs",
+              "RelativeToolTip": "ADTServis.UI\\CostumerAddForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\AppointmentsForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\AppointmentsForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\AppointmentsForm.cs",
+              "RelativeToolTip": "ADTServis.UI\\AppointmentsForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CostumerAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CostumerAddForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CostumerAddForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CostumerAddForm.cs",
+              "RelativeToolTip": "ADTServis.UI\\CostumerAddForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CustomersForm.Designer.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CustomersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CustomersForm.Designer.cs",
+              "RelativeToolTip": "ADTServis.UI\\CustomersForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CostumerAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CostumerAddForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CostumerAddForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\CostumerAddForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\CostumerAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\MainForm.cs",
+              "RelativeToolTip": "ADTServis.UI\\MainForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomersForm.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CustomersForm.cs",
+              "RelativeToolTip": "ADTServis.UI\\CustomersForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\CustomersForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\CustomersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Program.cs",
+              "RelativeToolTip": "ADTServis.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\LoginForm.cs",
+              "RelativeToolTip": "ADTServis.UI\\LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Form1.cs",
+              "RelativeToolTip": "ADTServis.UI\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ADTServis.BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\CustomerService.cs",
+              "RelativeToolTip": "ADTServis.BLL\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\App.config",
+              "RelativeDocumentMoniker": "ADTServis.UI\\App.config",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\App.config",
+              "RelativeToolTip": "ADTServis.UI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-01T14:23:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ADTServis.DAL\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ADTServis.DAL\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Db\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ADTServis.DAL\\Db\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Db\\DbConnectionFactory.cs",
+              "RelativeToolTip": "ADTServis.DAL\\Db\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ADTServis.Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Customer.cs",
+              "RelativeToolTip": "ADTServis.Entities\\Customer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ADTServis.UI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ADTServis.UI",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+              "RelativeDocumentMoniker": "ADTServis.UI\\ADTServis.UI.csproj",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+              "RelativeToolTip": "ADTServis.UI\\ADTServis.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T14:23:12.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ADTServis.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+              "RelativeDocumentMoniker": "ADTServis.UI\\ADTServis.UI.csproj",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+              "RelativeToolTip": "ADTServis.UI\\ADTServis.UI.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T14:23:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "ADTServis.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\Class1.cs",
+              "RelativeToolTip": "ADTServis.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "ADTServis.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\Class1.cs",
+              "RelativeToolTip": "ADTServis.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "ADTServis.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\Class1.cs",
+              "RelativeToolTip": "ADTServis.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:23:12.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ADTServis.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\asus\\Desktop\\NYP PROJECTS\\ADTServis\\ADTServis.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-01-01T14:23:12.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

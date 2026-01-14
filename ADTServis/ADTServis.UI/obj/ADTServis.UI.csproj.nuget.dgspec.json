@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\ADTServis.BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\ADTServis.BLL.csproj",
+        "projectName": "ADTServis.BLL",
+        "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\ADTServis.BLL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\ADTServis.DAL.csproj": {
+                "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\ADTServis.DAL.csproj"
+              },
+              "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj": {
+                "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\ADTServis.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\ADTServis.DAL.csproj",
+        "projectName": "ADTServis.DAL",
+        "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.DAL\\ADTServis.DAL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj": {
+                "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj",
+        "projectName": "ADTServis.Entities",
+        "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+        "projectName": "ADTServis.UI",
+        "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\ADTServis.UI.csproj",
+        "packagesPath": "C:\\Users\\aysen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aysen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\ADTServis.BLL.csproj": {
+                "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.BLL\\ADTServis.BLL.csproj"
+              },
+              "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj": {
+                "projectPath": "C:\\Users\\aysen\\Desktop\\ADTServis\\ADTServis\\ADTServis.Entities\\ADTServis.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
